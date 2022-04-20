@@ -1,0 +1,27 @@
+{
+    "name": "Cycle PWA",
+    "short_name": "Cycle PWA",
+    "start_url": "index.html",
+    "scope": ".",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FF6600",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo_144x144.png",
+            "sizes": "144x144",
+            "type": "image/jpeg",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "images/logo_1_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+            
+        }
+    ]
+
+
+}
